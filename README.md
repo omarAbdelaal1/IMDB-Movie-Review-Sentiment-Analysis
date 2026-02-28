@@ -87,8 +87,8 @@ The carefully tuned logistic pipeline consistently produces outstanding classifi
 Ensure you have Python installed and the fundamental NLP libraries:
 
 ```bash
-git clone https://github.com/omarAbdelaal1/NLP-Sentiment-Analysis
-cd NLP-Sentiment-Analysis
+git clone https://github.com/omarAbdelaal1/IMDB-Movie-Review-Sentiment-Analysis
+cd IMDB-Movie-Review-Sentiment-Analysis
 pip install pandas numpy scikit-learn nltk matplotlib
 ```
 
@@ -126,4 +126,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Omar Abdelaal** - [oabdelall2004@gmail.com](mailto:oabdelall2004@gmail.com)
 
-Project Link: [https://github.com/omarAbdelaal1/NLP-Sentiment-Analysis](https://github.com/omarAbdelaal1/NLP-Sentiment-Analysis)
+Project Link: [https://github.com/omarAbdelaal1/IMDB-Movie-Review-Sentiment-Analysis](https://github.com/omarAbdelaal1/IMDB-Movie-Review-Sentiment-Analysis)
